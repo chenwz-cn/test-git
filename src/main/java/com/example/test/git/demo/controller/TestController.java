@@ -10,6 +10,7 @@ public class TestController {
     public String test(){
         System.out.println("success");
         System.out.println("aaa");
+        System.out.println("bbb");
         return "success";
     }
 }
