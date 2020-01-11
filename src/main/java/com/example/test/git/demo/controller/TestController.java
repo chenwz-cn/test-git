@@ -9,7 +9,7 @@ public class TestController {
     @RequestMapping("/")
     public String test(){
         System.out.println("success-1");
-        System.out.println("aaa");
+        System.out.println("aaa-1");
         return "success";
     }
 }
