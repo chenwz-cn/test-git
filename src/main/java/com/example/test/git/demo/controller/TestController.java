@@ -8,7 +8,7 @@ public class TestController {
 
     @RequestMapping("/")
     public String test(){
-        System.out.println("success");
+        System.out.println("success-1");
         System.out.println("aaa");
         return "success";
     }
