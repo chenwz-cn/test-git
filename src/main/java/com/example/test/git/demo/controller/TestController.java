@@ -11,6 +11,7 @@ public class TestController {
         System.out.println("success-1");
         System.out.println("aaa-1");
         System.out.println("bbb");
+        System.out.println("aaa");
         return "success";
     }
 }
